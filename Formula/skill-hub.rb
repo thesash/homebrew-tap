@@ -1,8 +1,8 @@
 class SkillHub < Formula
   desc "Manage skills across AI agents (Claude Code, Codex, Clawdbot)"
   homepage "https://github.com/thesash/skill-hub"
-  url "https://github.com/thesash/skill-hub/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "12ce4c8928c6ac888b39be4da36ba37810d6d34633d38970f39f9fa7a99c244b"
+  url "https://github.com/thesash/skill-hub/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "a70b975e082f26a27503f7a56d7fba25a2d76ccabab511aa8c5c0a9e4e2402ee"
   license "MIT"
 
   depends_on "gum"
